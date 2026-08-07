@@ -1,0 +1,35 @@
+# Generated PDFs (contain client names)
+output/*.pdf
+output/*.csv
+output/*.json
+
+# Client data — NEVER commit this
+data/client_list.csv
+data/client_list.xlsx
+data/client_list.json
+
+# Sensitive config
+.env
+*.env
+sendgrid.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local design screenshots (not part of the app)
+Photos/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml

@@ -1,0 +1,5 @@
+# Email recipients for the MAS IAL notification email.
+# One email address per line. Lines starting with # are ignored.
+# Edit here or, once deployed, via the Streamlit app (Tab 3: Email Recipients).
+
+arjunkuma0308@gmail.com
