@@ -1,5 +1,14 @@
 [
   {
+    "name": "TxFaye",
+    "aliases": [],
+    "type": "Investor Alert List",
+    "date_added": "2026-10-23",
+    "description": "",
+    "website": "www.qhbsec.com",
+    "email": ""
+  },
+  {
     "name": "CoinRemitter",
     "aliases": [],
     "type": "Investor Alert List",
@@ -359,15 +368,6 @@
     "date_added": "2025-09-08",
     "description": "MAS has received feedback of certain claims made by the entity, including that MAS has appointed a third-party administrator to facilitate customer refunds. This is not true. The above entity is not licensed nor authorised by MAS to provide financial services in Singapore.",
     "website": "https://www.riotxai.com/",
-    "email": ""
-  },
-  {
-    "name": "Bitget",
-    "aliases": [],
-    "type": "Investor Alert List",
-    "date_added": "2025-09-08",
-    "description": "",
-    "website": "www.bitget.com",
     "email": ""
   },
   {
