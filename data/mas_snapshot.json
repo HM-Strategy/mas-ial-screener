@@ -1,5 +1,14 @@
 [
   {
+    "name": "DropNode",
+    "aliases": [],
+    "type": "Investor Alert List",
+    "date_added": "2026-10-28",
+    "description": "",
+    "website": "https://panel.nodecheap.biz/dashboard/terms https://officials.nodels.biz/",
+    "email": ""
+  },
+  {
     "name": "TxFaye",
     "aliases": [],
     "type": "Investor Alert List",
